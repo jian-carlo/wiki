@@ -1,3 +1,3 @@
 # Content
-- [[python]]
-- [[thermodynamics]]
+[[python]]
+[[thermodynamics]]
