@@ -1,6 +1,5 @@
 ---
-tags:
-* note-taking
+tags: [note-taking]
 ---
 
 # Notes should not follow a hierarchy

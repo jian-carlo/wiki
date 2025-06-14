@@ -1,6 +1,5 @@
 ---
-tags:
-* note-taking
+tags: [note-taking]
 ---
 
 # My Telescope plugin can't wrap long lines

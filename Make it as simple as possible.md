@@ -1,6 +1,5 @@
 ---
-tags:
-* note-taking
+tags: [note-taking]
 ---
 
 # Simple things are better for me
