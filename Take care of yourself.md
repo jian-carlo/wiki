@@ -1,3 +1,6 @@
+---
+tags: [reminder]
+---
 
 # Take care of yourself.
 
