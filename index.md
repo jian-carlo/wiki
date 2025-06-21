@@ -3,15 +3,12 @@
 
 ## Research
 
-### Sources
+### Definition of Biomaterials Two possible descriptions of biomaterials
 
-* [ ] Pondering with ChatGPT [0]
-* [ ] [What is a Biomaterial?](https://aese.psu.edu/teachag/curriculum/modules/biomaterials/what-is-a-biomaterial) [1]
-* [ ] [The chemistry of fire and gunpowder](https://www.youtube.com/watch?v=OYZT3opLedc) [2]
+From [What is a Biomaterial?][1]
 
-### Definition of Biomaterials
+There are two descriptions of biomaterials:
 
-Two possible descriptions of biomaterials [1]
 * A material that is derived from biological organisms such as plants, animal
   fungi.
 * Any material that is artificially engineered for biocompatibility for treating
@@ -19,94 +16,94 @@ Two possible descriptions of biomaterials [1]
 
 ### Polymeric Biomaterials
 
+From [What is a Biomaterial?][1]
+
 * The most abundant biomaterials are produced by living organisms.
 * DNA and RNA are two of the most important polymeric biomaterials responsible
-  for protein synthesis. Proteins are also polymeric biomaterials. [1]
+  for protein synthesis. Proteins are also polymeric biomaterials.
 * Cellulose is the MOST abundant organic polymer, a polysaccharide. Another
-  polysaccharide is starch. [1]
+  polysaccharide is starch.
 * The second most abundant polymer on earth is the polyphenol, found in many
-  fruits, vegetables, chocolate and grains. [1]
+  fruits, vegetables, chocolate and grains.
 
 ### Wood
 
-* Wood is one of the most important biomaterial. Humans discovered fire by striking
+* Wood is one of the most important biomaterials. Humans discovered fire by striking
   stone and wood. To let the fire burn for even longer, wood was the readily
-  available fuel. [0]
-* Wood is an accessible sturdy material, and so humans made structures with it. [0]
-* Wood is made of three types of molecules, cellulose, hemicellulose, and lignands [2]
+  available fuel.
+* Wood is used in carpentry and artmaking billions of structures, ships, furniture
+  and sculptures were made of wood.
+
+#### What is wood made of?
+
+From [The Chemistry of Fire and Gunpowder][2]
+
+* Wood is made of three types of molecules, cellulose, hemicellulose, and lignin
     * Cellulose is organized  
     * Hemicellulose is not much organized
-    * Lignand as different types of aromatic groups in it, responsible for the
-      hardness of the wood
-* Most of the wood inside the bark is dead xylem [2]
+    * Lignin has different types of aromatic groups in it, responsible for the
+    hardness of the wood
+* Most of the wood inside the bark is dead xylem
 * Wood creates a "blood clot" instead of blood, it is 'sap' 
-
-#### What can burn?
-
 * Burning wood produces three things or at least three states of matter. A 
-  flammable gas, a thick orange liquid, and black charcoal. [2]
-* The liquid is called a pyroligneous distillate [2].
-    * It is actually composed of two layers, the oily layer comes from the aromatic
-      lignands. 
-    * The aqueous layer is made up of methanol ("wood alcohol"), acetic acid
-      ("wood vinegar"), and acetone.
-* The gas is composed of three main gases, carbon monoxide, hydrogen, and methane.
-* The cellulose, hemicellulose, and lignands as they pyrolyze, they form a wide
-  variety of shorter molecules [2]
-* Charcoal, the solid left behind by wood pyrolysis is almost pure carbon, 90
-  to 99% carbon
+flammable gas, a thick orange liquid, and black charcoal.
+    * The liquid is called a pyroligneous distillate
+        * It is actually composed of two layers, the oily layer comes from the aromatic
+        lignins. 
+        * The aqueous layer is made up of methanol ("wood alcohol"), acetic acid
+        ("wood vinegar"), and acetone.
+    * The gas is composed of three main gases, carbon monoxide, hydrogen, and methane.
+    * The cellulose, hemicellulose, and lignin as they pyrolyze, they form a wide
+    variety of shorter molecules
+    * *Charcoal*, the solid left behind by wood pyrolysis is almost pure carbon, 90
+    to 99% carbon
 
-### Biomaterials have been used in
+From [Wood Composition][3]
 
-* joint replacements
-* bone plates
-* bone cement
-* artificial ligaments and tendons
-* dental implants
-* tooth fixation
-* blood vessel prostheses
-* heart valves
-* artificial tissue
-* contact lenses
-* breast implants
+* *Cellulose* is the primary strengthenin material in wood
+* *Lignin* is amorphous in form, acts as matrix or binder for the cellulose
+* *Hemicellulose* partly crystalline polymer that also acts as a matrix
+* *Water*
+* *Extractives*
 
-### Candidates for biomaterials
+![Microfibrils](https://www.researchgate.net/publication/325467020/figure/fig119/AS:632297741115395@1527762937926/The-arrangement-of-cellulose-microfibrils-and-fibrils-in-a-plant-cell.png)
 
-* metals
-* ceramics
-* polymers
-* composites
-* living cells
-* tissue
+* At the microscopic level, wood is composed of long cells, in the axial direction
+and thin cells in the radial and tangential direction
+* The smallest microstructural component of wood is called a microfibril. 
+Microfibrils are bundles of cellulose chains covered first by hemicellulose 
+and then by lignin.
 
-* **Biocompatibility** is the most important feature of a biomaterial
-  THIS is what makes a biomaterial a biomaterial
-* **Lightness** translates to comfortability (titanium)
-* **Flexibility** for certain use cases (polyurethane)
-  * Although some parts of polyurethane can attract platelets, engineers have
-    made it so that
+#### Mechanical Properties of Wood
 
-### Materials that are bad as a biomaterial
+To understand the mechanical properties of wood let us see it upclose first.
 
-* Can hurt you
-* Can dissolve
-* Your body can surround it with a protective layer
-* it can bond with your living tissue
+![Goofy Ahh Palm Tree](https://media.gettyimages.com/id/1788446014/photo/malformed-bent-california-palm-tree.jpg?s=612x612&w=gi&k=20&c=iUtQXGiBKAa2VppaH_8UhNtzX342iMvUOVAHpcH7AW4=)
+![Cross Section Tree Trunk](https://cdn.britannica.com/51/72251-035-01722E17/Cross-section-tree-trunk.jpg)
+![Real Tree Cross Section](https://images.stockcake.com/public/7/8/f/78f91708-ff8c-4c30-8cfd-ff5a1a22922c_large/cross-sectional-tree-slice-stockcake.jpg)
 
-### Tekashi 6ix9ine
+* Trees have evolved to withstand storms.
+    * Trees have a trunk that is nearly cylindrical in shape this contributes to
+      its stiffness. This is efficient for battling strong winds since every side 
+      is equal in shape, there are no weak spots the the wind can attack.
+* The anatomy of a tree trunk
+    ![Avoid the Pith!](https://external-preview.redd.it/ZpCgf37omr-XnApMvOhHnCdojShTgb4Iz6G_6eSgJFY.jpg?width=1080&crop=smart&auto=webp&s=ea43c995c9d155f95c41655ed1e3cf9de445d43a)
+    ![Tangential and Radial Shrinkage](https://marvel-b1-cdn.bc0a.com/f00000000117796/www.mcilvain.com/wp-content/uploads/2011/10/woodmovement.jpg)
+    * The core of a trunk is the pith, which is made up of soft parenchyma; this
+      is where the growth of a tree starts. In woodworking, it is important that
+      a plank does not contain the pith since it composes of very weak and less
+      dense tissue. And also, wood shrinks in the drying process as it loses
+      moisture. The tangential shrinkage is stronger than the radial shrinkage
+      by about 3.14 (ideally) (for real trees about 4 to 5 times greater.) This
+      mismatch creates hoop stress, which causes *wood checking* (cracks). This
+      is prevalent in wood planks containing the piths, see image above.
+    [Taken from this reddit thread.](4)
 
-* He has rainbow biomaterial on his teeth (*grillz*)
-* Gold or Silver, Diamonds even
+## Links
 
-### Titanium
+[1]: https://aese.psu.edu/teachag/curriculum/modules/biomaterials/what-is-a-biomaterial
+[2]: https://www.youtube.com/watch?v=OYZT3opLedc
+[3]: https://www.unsw.edu.au/science/our-schools/materials/engage-with-us/high-school-students-and-teachers/online-tutorials/composites/wood/wood-composition
+[4]: https://www.reddit.com/r/woodworking/comments/3q6ncx/for_all_the_new_guys_who_dont_know_what_pith_is/
 
-* Coating titanium with collagen proteins and a blood thinner like heparin to
-  speed up healing
-* due to coating titanium with the same molecules as your blood
-
-### Hydrogels
-
-* Hydrophilic structures
-* Cross-linked structures
-* e.g. Phema used in contact lenses
-
+## Notes
