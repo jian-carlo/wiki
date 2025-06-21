@@ -86,9 +86,13 @@ To understand the mechanical properties of wood let us see it upclose first.
     * Trees have a trunk that is nearly cylindrical in shape this contributes to
       its stiffness. This is efficient for battling strong winds since every side 
       is equal in shape, there are no weak spots the the wind can attack.
+    * Especially in the Philippines which is located in the Pacific Typhoon Belt.
+      Our trees have evolved to be very stiff. (Narra, Magkuno, Yacal, etc.)
 * The anatomy of a tree trunk
     ![Avoid the Pith!](https://external-preview.redd.it/ZpCgf37omr-XnApMvOhHnCdojShTgb4Iz6G_6eSgJFY.jpg?width=1080&crop=smart&auto=webp&s=ea43c995c9d155f95c41655ed1e3cf9de445d43a)
     ![Tangential and Radial Shrinkage](https://marvel-b1-cdn.bc0a.com/f00000000117796/www.mcilvain.com/wp-content/uploads/2011/10/woodmovement.jpg)
+    ![Wood Checking](https://www.carolinatimberworks.com/wp-content/uploads/2016/06/Eastern-White-Pine-Timber-Check.jpg)
+    ![Wood Warping](https://i.ytimg.com/vi/mMaldbJbfpk/maxresdefault.jpg)
     * The core of a trunk is the pith, which is made up of soft parenchyma; this
       is where the growth of a tree starts. In woodworking, it is important that
       a plank does not contain the pith since it composes of very weak and less
@@ -96,8 +100,57 @@ To understand the mechanical properties of wood let us see it upclose first.
       moisture. The tangential shrinkage is stronger than the radial shrinkage
       by about 3.14 (ideally) (for real trees about 4 to 5 times greater.) This
       mismatch creates hoop stress, which causes *wood checking* (cracks). This
-      is prevalent in wood planks containing the piths, see image above.
-    [Taken from this reddit thread.](4)
+      is prevalent in wood planks containing the piths but also seen without
+      in without piths.
+    * Usually woodworkers choose a species of tree that has smaller radial/tangential
+      shrinkage ratio to minimize wood checking.
+    * Wood warping also happens. This is due to the combination of the three
+      shrinkages, the tangential, the radial, and the longitudinal shrinkage.
+      [Taken from this reddit thread.](4)
+
+| **Species**               | **Radial Shrink (%)** | **Tangential Shrink (%)** | **T/R Ratio** |
+| ------------------------- | --------------------- | ------------------------- | ------------- |
+| **Tiaong**                | 0.6                   | 2.2                       | \~3.7         |
+| **Teak**                  | 0.7                   | 2.2                       | \~3.1         |
+| **Narra (Pterocarpus)**   | 0.9                   | 2.7                       | \~3.0         |
+| **Kaatoan bangkal**       | 1.0                   | 2.1                       | \~2.1         |
+| **Raintree**              | 1.0                   | 2.2                       | \~2.2         |
+| **Mahogany (big-leafed)** | 1.3                   | 3.2                       | \~2.5         |
+| **Apitong**               | 4.3                   | 7.0                       | \~1.6         |
+
+Data of shrinkage ratios of native Philippine trees from [MN Acda 2001][5]
+
+* The tagalog of teak is *malapangit*
+* the tagalog of raintree is *akasya* (acacia) and sometimes called *palo de china*
+    * *palochina* is a different type of wood. It is from pine or fir which are
+      soft trees.
+* Looking at the cross section of wood we can count the number of years that it
+  has been growing. The annual/growth rings completed each year. Starting with
+  spring, *earlywood* (spring wood) is being produced, abundance of water, the
+  cambium is active during this season. The *latewood* (summer wood) is produced
+  in the summer when growth slows down, the cambium produces smaller cells with
+  thick walls to prepare for winter conditions.
+* The heartwood is hard because it is composed of dried up lignin (lignification)
+  and other tannins and minerals. Sapwood is softer than hardwood but more
+  elastic. The bark is the softest layer.
+* The cellulose provides strength parallel to the grain (the main hardening part
+  of the wood which also gives tensile strenght), hemicellulose gives flexibility 
+  to the wood, the lignin binds the fibers together (also gives compressive strength). 
+    * *hardwood* contain about 38-51% cellulose, 17-38% hemicellulose, 21-31% lignin.
+      Hardwood is much harder and prefered by woodoworkers, but more expensive
+    * *softwood* contain about 33-42% cellulose, 22-40% hemicellulose, 27-32% lignin.
+      Softwood is much softer and wear faster but cheaper.
+* How the wood is sawn is very important. It must be sawn across the grain and
+  not across the grain.
+
+##### Takeaways
+
+* Choose the appropriate species of wood:
+    * The tangential/radial shrinkage ratios that affect checking and warping.
+    * Hardwood or softwood
+* Piths are very bad
+* How the wood is sawn
+* How the wood is processed (dried, acclimatized)
 
 ## Links
 
@@ -105,5 +158,6 @@ To understand the mechanical properties of wood let us see it upclose first.
 [2]: https://www.youtube.com/watch?v=OYZT3opLedc
 [3]: https://www.unsw.edu.au/science/our-schools/materials/engage-with-us/high-school-students-and-teachers/online-tutorials/composites/wood/wood-composition
 [4]: https://www.reddit.com/r/woodworking/comments/3q6ncx/for_all_the_new_guys_who_dont_know_what_pith_is/
+[5]: https://www.scribd.com/document/239753238/Handout-Physical
 
 ## Notes
